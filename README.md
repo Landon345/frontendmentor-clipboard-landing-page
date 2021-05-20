@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on Frontendmentor](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-cool-images-64dD-uB6j)
 - Live Site URL: [Live Site](https://landon345.github.io/frontendmentor-clipboard-landing-page/)
 
 ## My process
@@ -136,7 +136,7 @@ I'll continue to focus on using good spacing and more images in my designs.
 
 ### Useful resources
 
-- [CSS Grid](https://www.digitalocean.com/community/tutorials/css-align-justify) - This helped me for center items in css grid.
+- [CSS Grid](https://www.digitalocean.com/community/tutorials/css-align-justify) - This helped me center items in css grid.
 
 ## Author
 
